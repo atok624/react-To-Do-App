@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
+ 
   <h3><b>React To Do App</b></h3>
 
 </div>
@@ -29,9 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Maths Magician<a name="about-project"></a>
-
-**Maths Magician** 
+# 📖 The React To Do App<a name="about-project"></a>
 - The React To Do App is a web application app using React that allows users to add, edit and delete activities of their choice.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -49,7 +47,7 @@
 
 
 ### Future Features <a name="key-features"></a>
-- **API Functionality**
+- **API Functionality** 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
